@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33920.267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastUInt", "CastUInt\CastUInt.csproj", "{0B993245-0CA3-4274-8BA3-347B8022DFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B993245-0CA3-4274-8BA3-347B8022DFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B993245-0CA3-4274-8BA3-347B8022DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B993245-0CA3-4274-8BA3-347B8022DFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B993245-0CA3-4274-8BA3-347B8022DFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4B7938-4874-4491-9304-122BA4F541A0}
+	EndGlobalSection
+EndGlobal
