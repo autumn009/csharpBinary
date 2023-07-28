@@ -8,10 +8,10 @@ dump(0.1f);
 dump(0.2f);
 dump(0.3f);
 dump(0.4f);
+dump(float.NegativeZero);
 dump(float.NaN);
 dump(float.PositiveInfinity);
 dump(float.NegativeInfinity);
-dump(float.NegativeZero);
 
 void dump(float a)
 {
