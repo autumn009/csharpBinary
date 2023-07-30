@@ -6,6 +6,8 @@ sub("int", int.MinValue, int.MaxValue);
 sub("uint", uint.MinValue, uint.MaxValue);
 sub("long", long.MinValue, long.MaxValue);
 sub("ulong", ulong.MinValue, ulong.MaxValue);
+sub("Int128", Int128.MinValue, Int128.MaxValue);
+sub("UInt128", UInt128.MinValue, UInt128.MaxValue);
 sub("Half", Half.MinValue, Half.MaxValue);
 sub("float", float.MinValue, float.MaxValue);
 sub("double", double.MinValue, double.MaxValue);
